@@ -2,9 +2,13 @@
 
 A Flutter ToDo application.
 
-## Getting Started
+## Features
 
 A simple todo list with features like add, update, check and swipe to delete.
+
+## Get
+
+Get this app on Google Play Store [here](https://play.google.com/store/apps/details?id=com.vivek.todo&hl=en).
 
 # Screenshots:
 <img src="/screenshots/1.png" height="400px"/>  <img src="/screenshots/2.png" height="400px"/>  
